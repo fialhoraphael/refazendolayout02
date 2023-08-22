@@ -1,0 +1,152 @@
+body{ min-height: 100vh;
+    margin: 0;
+    
+   
+    
+    
+    
+    background-color: #2F2E41;
+
+}
+
+
+nav  { 
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 500;    
+    font-family: 'JetBrains Mono', monospace;
+    
+    color: #fff;
+
+
+    display: flex;
+    margin: 71px auto 101px;
+    align-items: center;
+   
+    width: 1083px;
+    height: 30px;
+    justify-content: space-between;
+    
+}
+ul {
+    text-align: center;
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 64px;
+}
+main {
+    
+    margin: auto;
+    
+    width: 1092px;
+    height: 283px;
+   
+  
+    
+}
+img {
+    margin-right: 77px;
+}
+h1 span {
+    margin-left: 10px;
+}
+h1 {
+    font-size: 36px;
+    line-height: 40px;
+    font-family: 'JetBrains Mono', monospace;
+
+    margin-left: 450px;
+    
+    width: 604px;
+    height: 40px;
+    color: #fff;
+    display: flex;
+    
+}
+span {
+    font-weight: bold;
+}
+
+strong{
+    font-weight: bold;
+    
+}
+p {
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 16px;
+    
+text-align: center;
+    display: inline;
+  
+    position: relative;
+    left: 485px;
+    margin-top: 120px;
+    color: #C2C2C2;
+    width: 604px;
+    height: 168px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.p1 {
+    position: relative;
+    left: 232px;
+    margin-top: 2px;
+    
+font-family: 'Open Sans', sans-serif;
+}
+.p2 {
+    position: relative;
+    left: -20px;
+
+    margin-top: 35px;
+    
+font-family: 'Open Sans', sans-serif;
+}
+.p3 {
+    margin-top: 2px;
+    position: relative;
+    left: 65px;
+   
+font-family: 'Open Sans', sans-serif;
+}
+#imgp {
+    position: relative;
+    left: 0px;
+    bottom: 280px;
+}
+
+.line {
+    width: 568px;
+    border: 1px solid #00BFA6;
+    text-align: center;
+    margin-bottom: 27px;
+
+}
+footer { 
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    font-family: 'JetBrains Mono', monospace;
+
+    color: white;
+    margin: 157px auto 27px;
+   
+   height: 55px;
+    width: 568px;
+   
+    
+    text-align: center;
+    
+  
+}
+.img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-left: 15px;
+    padding-bottom: 15px;
+
+}
